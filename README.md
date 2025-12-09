@@ -418,7 +418,6 @@ torchvision>=0.15.0
 
 ## 👨‍💻 Auteur
 
-**Votre Nom**
 - GitHub: [@Armoumad](https://github.com/Armoumad)
 - Email: abdelghafourmoumad@gmail.com
 
@@ -446,6 +445,7 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 ---
 
 **Bon entraînement et amusez-vous bien ! 🚀**
+
 
 
 
